@@ -12,8 +12,7 @@
     font-size: 18px;
     color: #000000;
     padding-top: 15px;
-    padding-right: 10px;
-    
+    padding-right: 10px;  
 }
 
 .header__menu {
@@ -34,8 +33,7 @@
 .header__logo {
     display: flex;
     align-items: flex-end;
-    margin-left: 5px;;
-    
+    margin-left: 5px;   
 } 
 
 .header__logo-image {
@@ -267,17 +265,15 @@
     grid-column-end: 4;
 	font-size: 20px;
 	color: #000000;
+    margin-bottom: 23px;
+    gap: 24px;
 }
  
-.paragraph_one {
-    margin-bottom: 23px;
-}
-
 .footer {
     width: 1000px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin: 180px 50px 88px;
+    margin: 156px 50px 88px;
 }
 
 .footer__menu-list {

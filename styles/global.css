@@ -32,16 +32,3 @@ a {
 img {
   width: 100%;
 } 
-
-.adress {
-    
-  display: block;
-  width: 240.52px;
-  height: 98px;
-  margin-right: 20px;
-  font-size: 18px;
-  font-style: inherit;
-  line-height: 1.35em;
-  text-underline-position: under;
-  color: #000000;
-}
